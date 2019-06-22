@@ -2,6 +2,7 @@
 Exoplanet Hunting in Deep Space (系外行星探索)  
 Based On `SVM` and `CNN`, 0.998 accuracy and 1.0 recall  
 
+![avatar](images/star.jpg)   
 ### Background  
 Before running the code, please Extract the `data.tar.gz` at first.  
 下载完成后请先解压`data.tar.gz`再运行程序  
