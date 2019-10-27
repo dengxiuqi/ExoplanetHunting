@@ -54,9 +54,3 @@ Test set:
 * 3198 columns or features.
 * Column 1 is the label vector. Columns 2 - 3198 are the flux values over time.
 * `5` confirmed exoplanet-stars and 565 non-exoplanet-stars.
-
-### Author
-欢迎交流  
-e-mail:`dengxiuqi@163.com`  
-wechat:`dengxiuqi007`  
-2019.6
